@@ -1,0 +1,20 @@
+{
+  "name": "MovieRecommendationSystem",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UttiyoRaaj/MovieRecommendationSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UttiyoRaaj/MovieRecommendationSystem/issues"
+  },
+  "homepage": "https://github.com/UttiyoRaaj/MovieRecommendationSystem#readme"
+}
